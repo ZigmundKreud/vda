@@ -2,9 +2,9 @@
   "name": "wod-vda",
   "title": "Vampire Dark Ages",
   "description": "Vampire Dark Ages module for WOD System",
-  "version": "0.1",
-  "minimumCoreVersion": "0.7.3",
-  "compatibleCoreVersion": "0.7.9",
+  "version": "0.8.9.1",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "0.8.9",
   "systems": [
     "wod"
   ],
