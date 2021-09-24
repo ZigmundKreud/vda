@@ -1,0 +1,46 @@
+@font-face {
+  font-family: "Emerald Isle";
+  src: url("../fonts/emeri.ttf");
+}
+
+.wod.actor .window-content .vampire_da .wrap .sheet-header .header-fields .logo {
+  background-image: url("../ui/vampire_da/logo.png");
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: top;
+  background-size: auto 130px;
+  min-height: 130px;
+  height: 130px;
+  max-height: 130px;
+  margin-top: -10px;
+}
+
+.wod.actor .window-content .vampire_da .wrap .sheet-header .header-fields .details .field-label {
+  font-family: "Emerald Isle", Serif;
+  font-size: 14px;
+}
+
+.wod.actor .window-content .vampire_da .wrap .sheet-header .header-fields .sheet-tabs {
+  font-family: "Emerald Isle", Serif;
+  font-size: 18px;
+}
+
+.wod.actor .window-content .vampire_da .wrap .sheet-body .section-header {
+  background-image: url("../ui/vampire_da/separator.png");
+  background-repeat: no-repeat;
+  background-size: 100% 10px;
+  background-position-y: center;
+}
+
+.wod.actor .window-content .vampire_da .wrap .sheet-body .section-header .section-title {
+  background-color: white;
+  font-family: "Emerald Isle", Serif;
+  font-size: 24px;
+  padding: 0 10px;
+  margin: 0 10px 0 10px;
+}
+
+.wod.actor .window-content .vampire_da .wrap .sheet-body .main .section-content .section-title {
+  font-family: "Emerald Isle", Serif;
+  font-size: 18px;
+}

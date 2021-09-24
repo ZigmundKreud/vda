@@ -1,0 +1,30 @@
+{
+  "WOD.clan.assamite" : "Assamite",
+  "WOD.clan.brujah" : "Brujah",
+  "WOD.clan.followers-of-set" : "Followers of Set",
+  "WOD.clan.gangrel" : "Gangrel",
+  "WOD.clan.giovanni" : "Giovanni",
+  "WOD.clan.lassombra" : "Lassombra",
+  "WOD.clan.malkavian" : "Malkavian",
+  "WOD.clan.nosferatu" : "Nosferatu",
+  "WOD.clan.ravnos" : "Ravnos",
+  "WOD.clan.toreador" : "Toreador",
+  "WOD.clan.tremere" : "Tremere",
+  "WOD.clan.tzimisce" : "Tzimisce",
+  "WOD.clan.venture" : "Ventrue",
+
+  "WOD.resources.humanity" : "Humanity",
+  "WOD.resources.bloodpool" : "Bloodpool",
+  "WOD.resources.road" : "Road",
+  "WOD.resources.aura" : "Aura",
+  "WOD.resources.weakness" : "Weakness",
+
+  "WOD.virtues.label" : "Virtues",
+  "WOD.virtues.cc" : "Conscience/Conviction",
+  "WOD.virtues.sci" : "Self-Control/Instinct",
+  "WOD.virtues.conscience" : "Conscience",
+  "WOD.virtues.self-control" : "Self-Control",
+  "WOD.virtues.courage" : "Courage",
+
+  "WOD.disciplines.label" : "Disciplines"
+}
